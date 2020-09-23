@@ -1,0 +1,7 @@
+<SCRIPT LANGUAGE=VBScript RUNAT=Server>
+Sub Application_OnStart
+		Application("WFDemo_ConnectionString") = "DSN=WFDemo"
+End Sub
+
+
+</SCRIPT>
